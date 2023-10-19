@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "_id" :1,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
+      "name": "John Doe",
+      "years_of_experience": 5,
+      "number_of_recipes": 100,
+      "likes": 5000,
+      "description": "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine   the director or head of a kitchen."
+    },
+    {
+      "id": 2,
+      "_id" :2,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
+      "name": "Alice Smith",
+      "years_of_experience": 8,
+      "number_of_recipes": 120,
+      "likes": 6000,
+      "description": "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine   the director or head of a kitchen."
+    
+    },
+    {
+      "id": 3,
+      "_id" :3,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
+      "name": "Bob Johnson",
+      "years_of_experience": 3,
+      "number_of_recipes": 80,
+      "likes": 3000,
+      "description": "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine   the director or head of a kitchen."
+    },
+    {
+      "id": 4,
+      "_id" :4,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
+      "name": "Sarah Brown",
+      "years_of_experience": 6,
+      "number_of_recipes": 150,
+      "likes": 7500,
+      "description": "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine   the director or head of a kitchen."
+    },
+    {
+      "id": 5,
+      "_id" :5,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
+      "name": "Michael Wilson",
+      "years_of_experience": 4,
+      "number_of_recipes": 90,
+      "likes": 4500,
+      "description": "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine   the director or head of a kitchen."
+    },
+    {
+      "id": 6,
+      "_id" :6,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
+      "name": "Emily Davis",
+      "years_of_experience": 7,
+      "number_of_recipes": 110,
+      "likes": 5500,
+      "description": "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine   the director or head of a kitchen."
+    }
+  ]
